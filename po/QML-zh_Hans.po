@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-10-29 14:38+0000\n"
+"PO-Revision-Date: 2021-11-01 00:47+0000\n"
 "Last-Translator: shun wang <shuonwang@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "jasp/jaspvisualmodeling-qml/zh_Hans/>\n"
@@ -46,7 +46,7 @@ msgstr "自变量"
 
 msgctxt "Flexplot|"
 msgid "Paneled Variable(s)"
-msgstr ""
+msgstr "分组变量"
 
 msgctxt "Flexplot|"
 msgid "Options"
@@ -254,152 +254,152 @@ msgstr "估计"
 
 msgctxt "linmod|"
 msgid "Show model comparisons"
-msgstr ""
+msgstr "显示模型比较"
 
 msgctxt "linmod|"
 msgid "Report means"
-msgstr ""
+msgstr "报告均值"
 
 msgctxt "linmod|"
 msgid "Show mean differences"
-msgstr ""
+msgstr "显示平均差异"
 
 msgctxt "linmod|"
 msgid "Show slopes/intercepts"
-msgstr ""
+msgstr "显示斜率/截距"
 
 msgctxt "linmod|"
 msgid "Show 95% intervals"
-msgstr ""
+msgstr "显示 95% 区间"
 
 msgctxt "linmod|"
 msgid "Show p-values"
-msgstr ""
+msgstr "显示 p 值"
 
 msgctxt "linmod|"
 msgid "Plot Controls"
-msgstr ""
+msgstr "绘图控件"
 
 msgctxt "linmod|"
 msgid "Point controls"
-msgstr ""
+msgstr "点控件"
 
 msgctxt "linmod|"
 msgid "Point transparency"
-msgstr ""
+msgstr "点透明度"
 
 msgctxt "linmod|"
 msgid "Jitter in X"
-msgstr ""
+msgstr "X 中的抖动"
 
 msgctxt "linmod|"
 msgid "Jitter in Y"
-msgstr ""
+msgstr "Y 中的抖动"
 
 msgctxt "linmod|"
 msgid "Aesthetics"
-msgstr ""
+msgstr "美学"
 
 msgctxt "linmod|"
 msgid "GGplot theme"
-msgstr ""
+msgstr "GGplot 主题"
 
 msgctxt "linmod|"
 msgid "Convert to grayscale"
-msgstr ""
+msgstr "转换为灰度"
 
 msgctxt "linmod|"
 msgid "Ghost lines"
-msgstr ""
+msgstr "幽灵线"
 
 msgctxt "mixedmod|"
 msgid "Dependent Variable"
-msgstr ""
+msgstr "因变量"
 
 msgctxt "mixedmod|"
 msgid "Independent Variable(s)"
-msgstr ""
+msgstr "自变量"
 
 msgctxt "mixedmod|"
 msgid "Random"
-msgstr ""
+msgstr "随机"
 
 msgctxt "mixedmod|"
 msgid "Model Builder"
-msgstr ""
+msgstr "模型构建器"
 
 msgctxt "mixedmod|"
 msgid "Components"
-msgstr ""
+msgstr "成分"
 
 msgctxt "mixedmod|"
 msgid "Fixed terms"
-msgstr ""
+msgstr "固定项"
 
 msgctxt "mixedmod|"
 msgid "Add as a random effect"
-msgstr ""
+msgstr "添加为随机效应"
 
 msgctxt "mixedmod|"
 msgid "Results Displays"
-msgstr ""
+msgstr "结果显示"
 
 msgctxt "mixedmod|"
 msgid "Plots"
-msgstr ""
+msgstr "绘图"
 
 msgctxt "mixedmod|"
 msgid "Model plot"
-msgstr ""
+msgstr "模型图"
 
 msgctxt "mixedmod|"
 msgid "Univariate plots"
-msgstr ""
+msgstr "单变量图"
 
 msgctxt "mixedmod|"
 msgid "Diagnostics"
-msgstr ""
+msgstr "诊断图"
 
 msgctxt "mixedmod|"
 msgid "Estimation"
-msgstr ""
+msgstr "估计"
 
 msgctxt "mixedmod|"
 msgid "Report fixed effects"
-msgstr ""
+msgstr "报告固定效应"
 
 msgctxt "mixedmod|"
 msgid "Report random effects"
-msgstr ""
+msgstr "报告随机效应"
 
 msgctxt "mixedmod|"
 msgid "Plot Controls"
-msgstr ""
+msgstr "绘图控件"
 
 msgctxt "mixedmod|"
 msgid "Point controls"
-msgstr ""
+msgstr "点控件"
 
 msgctxt "mixedmod|"
 msgid "Point transparency"
-msgstr ""
+msgstr "点透明度"
 
 msgctxt "mixedmod|"
 msgid "Jitter in X"
-msgstr ""
+msgstr "X 中的抖动"
 
 msgctxt "mixedmod|"
 msgid "Jitter in Y"
-msgstr ""
+msgstr "Y 中的抖动"
 
 msgctxt "mixedmod|"
 msgid "Other parameters"
-msgstr ""
+msgstr "其他参数"
 
 msgctxt "mixedmod|"
 msgid "GGplot theme"
-msgstr ""
+msgstr "GGplot 主题"
 
 msgctxt "mixedmod|"
 msgid "Number of clusters"
-msgstr ""
+msgstr "集群数量"
