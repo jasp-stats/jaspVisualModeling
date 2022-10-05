@@ -6,7 +6,7 @@ Description
 	title :         qsTr("Visual Modeling")
 	name :          "Visual Modeling"
 	description:    qsTr("Graphically explore the dependencies between variables")
-	version:        "0.16.4"
+	version:        "0.17.0"
 	author:         "Dustin Fife"
 	icon:           "FlexplotLogo.svg"
 	maintainer:     "Dustin Fife <fife.dustin@gmail.com>"
