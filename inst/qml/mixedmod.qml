@@ -66,7 +66,14 @@ Form
 			DropDown
 			{
 				name: "theme"
-				values: ["JASP", "Black and white", "Minimal", "Classic", "Dark"]
+				values: 
+					[
+					{label: qsTr("JASP"),				value: "JASP"},
+					{label: qsTr("Black and white"),	value: "Black and white"},
+					{label: qsTr("Minimal"),			value: "Minimal"},
+					{label: qsTr("Classic"),			value: "Classic"},
+					{label: qsTr("Dark"),				value: "Dark"}
+				]
 				label: qsTr("GGplot theme")
 			}
 			IntegerField
