@@ -139,7 +139,7 @@ Form
 						{label: qsTr("Nature"),					value: "Nature"},
 						{label: qsTr("AAAS"),					value: "AAAS"},
 						{label: qsTr("Lancet"),					value: "Lancet"},
-						{label: qsTr("JCO"),					value: "JCO"}
+						{label: qsTr("JCO"),					value: "JCO"},
 						{label: qsTr("Dark"),					value: "Dark"}
 					]
 					label: qsTr("Color Palette")
