@@ -89,14 +89,26 @@ Form
 				DropDown
 				{
 					name: "type"
-					values: ["Loess", "Regression", "Quadratic", "Cubic", "None"]
+					values: 
+						[
+						{label: qsTr("Loess"),					value: "Loess"},
+						{label: qsTr("Regression"),				value: "Regression"},
+						{label: qsTr("Quadratic"),				value: "Quadratic"},
+						{label: qsTr("Cubic"),					value: "Cubic"},
+						{label: qsTr("None"),					value: "None"}
+					]
 					label: qsTr("Fitted line (scatterplots)")
 					enabled: varlist.count > 0
 				}
 				DropDown
 				{
 					name: "intervals"
-					values: ["Quartiles", "Standard errors", "Standard deviations"]
+					values:
+						[
+						{label: qsTr("Quartiles"),				value: "Quartiles"},
+						{label: qsTr("Standard errors"),		value: "Standard errors"},
+						{label: qsTr("Standard deviations"),	value: "Standard deviations"}
+					]
 					label: qsTr("Intervals (categorical predictors)")
 					enabled: varlist.count > 0
 				}
@@ -108,13 +120,28 @@ Form
 				DropDown
 				{
 					name: "theme"
-					values: ["JASP", "Black and white", "Minimal", "Classic", "Dark"]
+					values: 
+						[
+						{label: qsTr("JASP"),					value: "JASP"},
+						{label: qsTr("Black and white"),		value: "Black and white"},
+						{label: qsTr("Minimal"),				value: "Minimal"},
+						{label: qsTr("Classic"),				value: "Classic"},
+						{label: qsTr("Dark"),					value: "Dark"}
+					]
 					label: qsTr("GGplot theme")
 				}
 				DropDown
 				{
 					name: "palette"
-					values: ["GGplot Default", "Nature", "AAAS", "Lancet", "JCO", "Dark"]
+					values: 
+						[
+						{label: qsTr("GGplot Default"),			value: "GGplot Default"},
+						{label: qsTr("Nature"),					value: "Nature"},
+						{label: qsTr("AAAS"),					value: "AAAS"},
+						{label: qsTr("Lancet"),					value: "Lancet"},
+						{label: qsTr("JCO"),					value: "JCO"},
+						{label: qsTr("Dark"),					value: "Dark"}
+					]
 					label: qsTr("Color Palette")
 				}
 				CheckBox
@@ -144,34 +171,34 @@ Form
 		  TextField
       {
 	      id: nameX;
-	      label: "X Axis Label";
+	      label: qsTr("X Axis Label");
 	      name: "nameX";
       }
 		  TextField
       {
 	      id: nameY
-	      label: "Y Axis Label"
+	      label: qsTr("Y Axis Label")
 	      name: "nameY";
 				value: xAxis.value
       }
 			TextField
       {
 	      id: nameLegend
-	      label: "Legend Label"
+	      label: qsTr("Legend Label")
 	      name: "nameLegend";
 				value: legend.value
       }
 			TextField
       {
 	      id: nameCols
-	      label: "Column Panel Label"
+	      label: qsTr("Column Panel Label")
 	      name: "nameCols";
 				value: cols.value
       }
 			TextField
       {
 	      id: nameRows
-	      label: "Row Panel Label"
+	      label: qsTr("Row Panel Label")
 	      name: "nameRows";
 				value: rows.value
       }

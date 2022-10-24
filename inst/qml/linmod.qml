@@ -34,7 +34,12 @@ Form
 		DropDown
 		{
 			name: "linetype"
-			values: ["Regression", "Quadratic", "Cubic"]
+			values: 
+				[
+				{label: qsTr("Regression"),				value: "Regression"},
+				{label: qsTr("Quadratic"),				value: "Quadratic"},
+				{label: qsTr("Cubic"),					value: "Cubic"}
+			]
 			label: qsTr("Fitted line (scatterplots)")
 			enabled: varlist.count > 0
 		}
@@ -112,7 +117,14 @@ Form
 			DropDown
 			{
 				name: "theme"
-				values: ["JASP", "Black and white", "Minimal", "Classic", "Dark"]
+				values: 
+					[
+					{label: qsTr("JASP"),				value: "JASP"},
+					{label: qsTr("Black and white"),	value: "Black and white"},
+					{label: qsTr("Minimal"),			value: "Minimal"},
+					{label: qsTr("Classic"),			value: "Classic"},
+					{label: qsTr("Dark"),				value: "Dark"}
+				]
 				label: qsTr("GGplot theme")
 			}
 			CheckBox

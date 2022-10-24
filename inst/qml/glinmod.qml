@@ -16,7 +16,15 @@ Form
 		{
 			id: family
 			name: "family"
-			values: ["Normal", "Logistic", "Poisson", "Negative binomial", "Gamma"]
+			values: 
+				[
+				{label: qsTr("Normal"),				value: "Normal"},
+				{label: qsTr("Logistic"),			value: "Logistic"},
+				{label: qsTr("Poisson"),			value: "Poisson"},
+				{label: qsTr("Negative"),			value: "Negative"},
+				{label: qsTr("binomial"),			value: "binomial"},
+				{label: qsTr("Gamma"),				value: "Gamma"}
+			]
 			label: qsTr("Distribution family")
 		}
 	}
@@ -114,7 +122,14 @@ Form
 			DropDown
 			{
 				name: "theme"
-				values: ["JASP", "Black and white", "Minimal", "Classic", "Dark"]
+				values: 
+					[
+					{label: qsTr("JASP"),				value: "JASP"},
+					{label: qsTr("Black and white"),	value: "Black and white"},
+					{label: qsTr("Minimal"),			value: "Minimal"},
+					{label: qsTr("Classic"),			value: "Classic"},
+					{label: qsTr("Dark"),				value: "Dark"}
+				]
 				label: qsTr("GGplot theme")
 			}
 			CheckBox
