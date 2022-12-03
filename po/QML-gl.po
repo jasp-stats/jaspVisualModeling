@@ -399,3 +399,191 @@ msgstr "Dispersión en Y"
 msgctxt "mixedmod|"
 msgid "GGplot theme"
 msgstr "Esquema GGplot de cores"
+
+msgctxt "Flexplot|"
+msgid "Loess"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Regression"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Quadratic"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Cubic"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "None"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Quartiles"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Standard errors"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Standard deviations"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "JASP"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Black and white"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Minimal"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Classic"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Dark"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "GGplot Default"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Nature"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "AAAS"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Lancet"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "JCO"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "X Axis Label"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Y Axis Label"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Legend Label"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Column Panel Label"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Row Panel Label"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Normal"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Logistic"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Poisson"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Negative"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "binomial"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Gamma"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "JASP"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Black and white"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Minimal"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Classic"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Dark"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Regression"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Quadratic"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Cubic"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "JASP"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Black and white"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Minimal"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Classic"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Dark"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "JASP"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Black and white"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Minimal"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Classic"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Dark"
+msgstr ""
