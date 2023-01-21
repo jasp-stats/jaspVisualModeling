@@ -1,9 +1,15 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2023-01-15 10:47+0000\n"
+"Last-Translator: Johannes Keyser <joke@fsfe.org>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/jasp/"
+"jaspvisualmodeling-qml/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15.1-dev\n"
 "X-Language: de\n"
 "X-Source-Language: American English\n"
 "X-Qt-Contexts: true\n"
@@ -98,11 +104,11 @@ msgstr "Referenzlinien"
 
 msgctxt "Flexplot|"
 msgid "Plot Labels"
-msgstr "Abbildungs-Beschriftungen"
+msgstr "Diagrammbeschriftungen"
 
 msgctxt "Flexplot|"
 msgid "<br><strong>Plot Labels</strong>"
-msgstr "<br><strong>Abbildungs-Beschriftungen</strong>"
+msgstr "<br><strong>Diagrammbeschriftungen</strong>"
 
 msgctxt "glinmod|"
 msgid "Dependent Variable"
@@ -134,7 +140,7 @@ msgstr "Ergebnisansichten"
 
 msgctxt "glinmod|"
 msgid "Plots"
-msgstr "Abbildungen"
+msgstr "Diagramme"
 
 msgctxt "glinmod|"
 msgid "Model plot"
@@ -218,7 +224,7 @@ msgstr "Ergebnisansichten"
 
 msgctxt "linmod|"
 msgid "Plots"
-msgstr "Abbildungen"
+msgstr "Diagramme"
 
 msgctxt "linmod|"
 msgid "Model plot"
@@ -266,7 +272,7 @@ msgstr "P-Werte anzeigen"
 
 msgctxt "linmod|"
 msgid "Plot Controls"
-msgstr "Abbildungseinstellungen"
+msgstr "Diagrammeinstellungen"
 
 msgctxt "linmod|"
 msgid "Point controls"
@@ -330,7 +336,7 @@ msgstr "Ergebnisansichten"
 
 msgctxt "mixedmod|"
 msgid "Plots"
-msgstr "Abbildungen"
+msgstr "Diagramme"
 
 msgctxt "mixedmod|"
 msgid "Model plot"
@@ -338,7 +344,7 @@ msgstr "Modellplot"
 
 msgctxt "mixedmod|"
 msgid "Univariate plots"
-msgstr "Univariate Abbildungen"
+msgstr "Univariate Diagramme"
 
 msgctxt "mixedmod|"
 msgid "Diagnostics"
@@ -358,7 +364,7 @@ msgstr "Zufällige Effekte berichten"
 
 msgctxt "mixedmod|"
 msgid "Plot Controls"
-msgstr "Abbildungseinstellungen"
+msgstr "Diagrammeinstellungen"
 
 msgctxt "mixedmod|"
 msgid "Point controls"
@@ -486,11 +492,11 @@ msgstr "Beschriftung Legende"
 
 msgctxt "Flexplot|"
 msgid "Column Panel Label"
-msgstr ""
+msgstr "Panel-Spaltenbeschriftung"
 
 msgctxt "Flexplot|"
 msgid "Row Panel Label"
-msgstr ""
+msgstr "Panel-Zeilenbeschriftung"
 
 msgctxt "glinmod|"
 msgid "Normal"
