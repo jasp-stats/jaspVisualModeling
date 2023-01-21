@@ -1,16 +1,10 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-17 15:13+0000\n"
-"Last-Translator: Reza Almanda <rezaalmanda27@gmail.com>\n"
-"Language-Team: Indonesian <https://hosted.weblate.org/projects/jasp/"
-"jaspvisualmodeling-qml/id/>\n"
-"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: id\n"
-"X-Generator: Weblate 4.11-dev\n"
 "X-Qt-Contexts: true\n"
 
 msgctxt "Description|"
@@ -113,13 +107,15 @@ msgctxt "Flexplot|"
 msgid "<br><strong>Plot Labels</strong>"
 msgstr ""
 
+#, fuzzy
 msgctxt "glinmod|"
 msgid "Dependent Variable"
-msgstr ""
+msgstr "Variabel Dependen"
 
+#, fuzzy
 msgctxt "glinmod|"
 msgid "Independent Variable(s)"
-msgstr ""
+msgstr "Variabel Independen"
 
 msgctxt "glinmod|"
 msgid "Distribution family"
@@ -169,17 +165,20 @@ msgctxt "glinmod|"
 msgid "Point controls"
 msgstr ""
 
+#, fuzzy
 msgctxt "glinmod|"
 msgid "Point transparency"
-msgstr ""
+msgstr "Transparansi titik"
 
+#, fuzzy
 msgctxt "glinmod|"
 msgid "Jitter in X"
-msgstr ""
+msgstr "Jitter di X"
 
+#, fuzzy
 msgctxt "glinmod|"
 msgid "Jitter in Y"
-msgstr ""
+msgstr "Jitter di Y"
 
 msgctxt "glinmod|"
 msgid "Aesthetics"
@@ -193,13 +192,15 @@ msgctxt "glinmod|"
 msgid "Ghost lines"
 msgstr ""
 
+#, fuzzy
 msgctxt "linmod|"
 msgid "Dependent Variable"
-msgstr ""
+msgstr "Variabel Dependen"
 
+#, fuzzy
 msgctxt "linmod|"
 msgid "Independent Variable(s)"
-msgstr ""
+msgstr "Variabel Independen"
 
 msgctxt "linmod|"
 msgid "Model Terms"
@@ -285,17 +286,20 @@ msgctxt "linmod|"
 msgid "Point controls"
 msgstr ""
 
+#, fuzzy
 msgctxt "linmod|"
 msgid "Point transparency"
-msgstr ""
+msgstr "Transparansi titik"
 
+#, fuzzy
 msgctxt "linmod|"
 msgid "Jitter in X"
-msgstr ""
+msgstr "Jitter di X"
 
+#, fuzzy
 msgctxt "linmod|"
 msgid "Jitter in Y"
-msgstr ""
+msgstr "Jitter di Y"
 
 msgctxt "linmod|"
 msgid "Aesthetics"
@@ -313,13 +317,15 @@ msgctxt "linmod|"
 msgid "Ghost lines"
 msgstr ""
 
+#, fuzzy
 msgctxt "mixedmod|"
 msgid "Dependent Variable"
-msgstr ""
+msgstr "Variabel Dependen"
 
+#, fuzzy
 msgctxt "mixedmod|"
 msgid "Independent Variable(s)"
-msgstr ""
+msgstr "Variabel Independen"
 
 msgctxt "mixedmod|"
 msgid "Random"
@@ -381,17 +387,20 @@ msgctxt "mixedmod|"
 msgid "Point controls"
 msgstr ""
 
+#, fuzzy
 msgctxt "mixedmod|"
 msgid "Point transparency"
-msgstr ""
+msgstr "Transparansi titik"
 
+#, fuzzy
 msgctxt "mixedmod|"
 msgid "Jitter in X"
-msgstr ""
+msgstr "Jitter di X"
 
+#, fuzzy
 msgctxt "mixedmod|"
 msgid "Jitter in Y"
-msgstr ""
+msgstr "Jitter di Y"
 
 msgctxt "mixedmod|"
 msgid "Other parameters"
@@ -403,4 +412,192 @@ msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Number of clusters"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Loess"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Regression"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Quadratic"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Cubic"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "None"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Quartiles"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Standard errors"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Standard deviations"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "JASP"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Black and white"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Minimal"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Classic"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Dark"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "GGplot Default"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Nature"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "AAAS"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Lancet"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "JCO"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "X Axis Label"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Y Axis Label"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Legend Label"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Column Panel Label"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Row Panel Label"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Normal"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Logistic"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Poisson"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Negative"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "binomial"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Gamma"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "JASP"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Black and white"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Minimal"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Classic"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Dark"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Regression"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Quadratic"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Cubic"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "JASP"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Black and white"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Minimal"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Classic"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Dark"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "JASP"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Black and white"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Minimal"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Classic"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Dark"
 msgstr ""
