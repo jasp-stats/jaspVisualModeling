@@ -21,8 +21,7 @@ Form
 				{label: qsTr("Normal"),				value: "Normal"},
 				{label: qsTr("Logistic"),			value: "Logistic"},
 				{label: qsTr("Poisson"),			value: "Poisson"},
-				{label: qsTr("Negative"),			value: "Negative"},
-				{label: qsTr("binomial"),			value: "binomial"},
+				{label: qsTr("Negative binomial"),	value: "negativebinomial"},
 				{label: qsTr("Gamma"),				value: "Gamma"}
 			]
 			label: qsTr("Distribution family")
