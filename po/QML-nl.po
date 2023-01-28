@@ -505,14 +505,6 @@ msgid "Poisson"
 msgstr "Poisson"
 
 msgctxt "glinmod|"
-msgid "Negative"
-msgstr "Negatief"
-
-msgctxt "glinmod|"
-msgid "binomial"
-msgstr "binomiaal"
-
-msgctxt "glinmod|"
 msgid "Gamma"
 msgstr "Gamma"
 
@@ -587,3 +579,7 @@ msgstr "Klassiek"
 msgctxt "mixedmod|"
 msgid "Dark"
 msgstr "Donker"
+
+msgctxt "glinmod|"
+msgid "Negative binomial"
+msgstr ""
