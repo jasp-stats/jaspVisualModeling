@@ -1,17 +1,25 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2023-04-14 18:48+0000\n"
+"Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/jasp/"
+"jaspvisualmodeling-qml/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.17-dev\n"
 "X-Qt-Contexts: true\n"
 
 msgctxt "Description|"
 msgid "Visual Modeling"
-msgstr ""
+msgstr "Modelowanie wizualne"
 
 msgctxt "Description|"
 msgid "Graphically explore the dependencies between variables"
-msgstr ""
+msgstr "Graficzna analiza zależności między zmiennymi"
 
 msgctxt "Description|"
 msgid "Flexplot"
@@ -19,23 +27,23 @@ msgstr ""
 
 msgctxt "Description|"
 msgid "Linear Modeling"
-msgstr ""
+msgstr "Modelowanie liniowe"
 
 msgctxt "Description|"
 msgid "Mixed Modeling"
-msgstr ""
+msgstr "Modelowanie mieszane"
 
 msgctxt "Description|"
 msgid "Generalized Linear Modeling"
-msgstr ""
+msgstr "Uogólnione modelowanie liniowe"
 
 msgctxt "Flexplot|"
 msgid "Dependent Variable"
-msgstr ""
+msgstr "Zmienna zależna"
 
 msgctxt "Flexplot|"
 msgid "Independent Variable(s)"
-msgstr ""
+msgstr "Zmienna(e) niezależna(e)"
 
 msgctxt "Flexplot|"
 msgid "Paneled Variable(s)"
@@ -43,7 +51,7 @@ msgstr ""
 
 msgctxt "Flexplot|"
 msgid "Options"
-msgstr ""
+msgstr "Opcje"
 
 msgctxt "Flexplot|"
 msgid "<br><strong>Point controls</br></strong>"
@@ -51,19 +59,19 @@ msgstr ""
 
 msgctxt "Flexplot|"
 msgid "Point transparency"
-msgstr ""
+msgstr "Przejrzystość punktów"
 
 msgctxt "Flexplot|"
 msgid "Jitter in X"
-msgstr ""
+msgstr "Losowy szum w X"
 
 msgctxt "Flexplot|"
 msgid "Jitter in Y"
-msgstr ""
+msgstr "Losowy szum w Y"
 
 msgctxt "Flexplot|"
 msgid "<strong>Visual Statistics</strong>"
-msgstr ""
+msgstr "<strong>Statystyki wizualne</strong>"
 
 msgctxt "Flexplot|"
 msgid "Plot confidence bands"
@@ -71,43 +79,43 @@ msgstr ""
 
 msgctxt "Flexplot|"
 msgid "Loess"
-msgstr ""
+msgstr "LOESS"
 
 msgctxt "Flexplot|"
 msgid "Regression"
-msgstr ""
+msgstr "Regresja"
 
 msgctxt "Flexplot|"
 msgid "Quadratic"
-msgstr ""
+msgstr "Kwadratowa"
 
 msgctxt "Flexplot|"
 msgid "Cubic"
-msgstr ""
+msgstr "Sześcienna"
 
 msgctxt "Flexplot|"
 msgid "None"
-msgstr ""
+msgstr "Brak"
 
 msgctxt "Flexplot|"
 msgid "Fitted line (scatterplots)"
-msgstr ""
+msgstr "Linia dopasowana (wykresy rozrzutu)"
 
 msgctxt "Flexplot|"
 msgid "Quartiles"
-msgstr ""
+msgstr "Kwartyle"
 
 msgctxt "Flexplot|"
 msgid "Standard errors"
-msgstr ""
+msgstr "Błędy standardowe"
 
 msgctxt "Flexplot|"
 msgid "Standard deviations"
-msgstr ""
+msgstr "Odchylenie standardowe"
 
 msgctxt "Flexplot|"
 msgid "Intervals (categorical predictors)"
-msgstr ""
+msgstr "Przedziały (predyktory kategorialne)"
 
 msgctxt "Flexplot|"
 msgid "<br><strong>Other Plot Controls</strong>"
@@ -115,79 +123,79 @@ msgstr ""
 
 msgctxt "Flexplot|"
 msgid "JASP"
-msgstr ""
+msgstr "JASP"
 
 msgctxt "Flexplot|"
 msgid "Black and white"
-msgstr ""
+msgstr "Czerń i biel"
 
 msgctxt "Flexplot|"
 msgid "Minimal"
-msgstr ""
+msgstr "Minimalistyczny"
 
 msgctxt "Flexplot|"
 msgid "Classic"
-msgstr ""
+msgstr "Klasyczny"
 
 msgctxt "Flexplot|"
 msgid "Dark"
-msgstr ""
+msgstr "Ciemny"
 
 msgctxt "Flexplot|"
 msgid "GGplot theme"
-msgstr ""
+msgstr "Motyw GGplot"
 
 msgctxt "Flexplot|"
 msgid "GGplot Default"
-msgstr ""
+msgstr "Domyślny GGplot"
 
 msgctxt "Flexplot|"
 msgid "Nature"
-msgstr ""
+msgstr "Nature"
 
 msgctxt "Flexplot|"
 msgid "AAAS"
-msgstr ""
+msgstr "AAAS"
 
 msgctxt "Flexplot|"
 msgid "Lancet"
-msgstr ""
+msgstr "Lancet"
 
 msgctxt "Flexplot|"
 msgid "JCO"
-msgstr ""
+msgstr "JCO"
 
 msgctxt "Flexplot|"
 msgid "Color Palette"
-msgstr ""
+msgstr "Paleta kolorów"
 
 msgctxt "Flexplot|"
 msgid "Convert to grayscale"
-msgstr ""
+msgstr "Konwertuj na skalę szarości"
 
 msgctxt "Flexplot|"
 msgid "Ghost lines"
-msgstr ""
+msgstr "Linie siatki"
 
 msgctxt "Flexplot|"
 msgid "Plot Labels"
-msgstr ""
+msgstr "Etykiety"
 
 msgctxt "Flexplot|"
 msgid "<br><strong>Plot Labels</strong>"
-msgstr ""
+msgstr "<br><strong>Etykiety</strong>"
 
 msgctxt "Flexplot|"
 msgid "X Axis Label"
-msgstr ""
+msgstr "Etykieta osi X"
 
 msgctxt "Flexplot|"
 msgid "Y Axis Label"
-msgstr ""
+msgstr "Etykieta osi Y"
 
 msgctxt "Flexplot|"
 msgid "Legend Label"
-msgstr ""
+msgstr "Etykieta legendy"
 
 msgctxt "Flexplot|"
 msgid "Column Panel Label"
@@ -199,27 +207,27 @@ msgstr ""
 
 msgctxt "glinmod|"
 msgid "Dependent Variable"
-msgstr ""
+msgstr "Zmienna zależna"
 
 msgctxt "glinmod|"
 msgid "Independent Variable(s)"
-msgstr ""
+msgstr "Zmienna(e) niezależna(e)"
 
 msgctxt "glinmod|"
 msgid "Normal"
-msgstr ""
+msgstr "Normalny"
 
 msgctxt "glinmod|"
 msgid "Logistic"
-msgstr ""
+msgstr "Logistyczny"
 
 msgctxt "glinmod|"
 msgid "Poisson"
-msgstr ""
+msgstr "Poisson"
 
 msgctxt "glinmod|"
 msgid "Gamma"
-msgstr ""
+msgstr "Gamma"
 
 msgctxt "glinmod|"
 msgid "Distribution family"
@@ -231,35 +239,35 @@ msgstr ""
 
 msgctxt "glinmod|"
 msgid "Components"
-msgstr ""
+msgstr "Składniki"
 
 msgctxt "glinmod|"
 msgid "Model terms"
-msgstr ""
+msgstr "Składniki modelu"
 
 msgctxt "glinmod|"
 msgid "Results Displays"
-msgstr ""
+msgstr "Wyświetlanie wyników"
 
 msgctxt "glinmod|"
 msgid "Plots"
-msgstr ""
+msgstr "Wykresy"
 
 msgctxt "glinmod|"
 msgid "Model plot"
-msgstr ""
+msgstr "Wykres modelu"
 
 msgctxt "glinmod|"
 msgid "Univariates"
-msgstr ""
+msgstr "Jednowymiarowe"
 
 msgctxt "glinmod|"
 msgid "Estimation"
-msgstr ""
+msgstr "Oszacowanie"
 
 msgctxt "glinmod|"
 msgid "Show parameter Estimates"
-msgstr ""
+msgstr "Pokaż oszacowania parametrów"
 
 msgctxt "glinmod|"
 msgid "Plot Controls"
@@ -271,143 +279,143 @@ msgstr ""
 
 msgctxt "glinmod|"
 msgid "Point transparency"
-msgstr ""
+msgstr "Przejrzystość punktów"
 
 msgctxt "glinmod|"
 msgid "Jitter in X"
-msgstr ""
+msgstr "Losowy szum w X"
 
 msgctxt "glinmod|"
 msgid "Jitter in Y"
-msgstr ""
+msgstr "Losowy szum w Y"
 
 msgctxt "glinmod|"
 msgid "Aesthetics"
-msgstr ""
+msgstr "Wygląd"
 
 msgctxt "glinmod|"
 msgid "JASP"
-msgstr ""
+msgstr "JASP"
 
 msgctxt "glinmod|"
 msgid "Black and white"
-msgstr ""
+msgstr "Czerń i biel"
 
 msgctxt "glinmod|"
 msgid "Minimal"
-msgstr ""
+msgstr "Minimalistyczny"
 
 msgctxt "glinmod|"
 msgid "Classic"
-msgstr ""
+msgstr "Klasyczny"
 
 msgctxt "glinmod|"
 msgid "Dark"
-msgstr ""
+msgstr "Ciemny"
 
 msgctxt "glinmod|"
 msgid "GGplot theme"
-msgstr ""
+msgstr "Motyw GGplot"
 
 msgctxt "glinmod|"
 msgid "Ghost lines"
-msgstr ""
+msgstr "Linie siatki"
 
 msgctxt "linmod|"
 msgid "Dependent Variable"
-msgstr ""
+msgstr "Zmienna zależna"
 
 msgctxt "linmod|"
 msgid "Independent Variable(s)"
-msgstr ""
+msgstr "Zmienna(e) niezależna(e)"
 
 msgctxt "linmod|"
 msgid "Model Terms"
-msgstr ""
+msgstr "Składniki modelu"
 
 msgctxt "linmod|"
 msgid "Components"
-msgstr ""
+msgstr "Składowe"
 
 msgctxt "linmod|"
 msgid "Model terms"
-msgstr ""
+msgstr "Składniki modelu"
 
 msgctxt "linmod|"
 msgid "Add as a polynomial"
-msgstr ""
+msgstr "Dodaj jako wielomian"
 
 msgctxt "linmod|"
 msgid "Visual Fitting"
-msgstr ""
+msgstr "Dopasowanie wizualne"
 
 msgctxt "linmod|"
 msgid "Regression"
-msgstr ""
+msgstr "Regresja"
 
 msgctxt "linmod|"
 msgid "Quadratic"
-msgstr ""
+msgstr "Kwadratowa"
 
 msgctxt "linmod|"
 msgid "Cubic"
-msgstr ""
+msgstr "Sześcienna"
 
 msgctxt "linmod|"
 msgid "Fitted line (scatterplots)"
-msgstr ""
+msgstr "Linia dopasowana (wykresy rozrzutu)"
 
 msgctxt "linmod|"
 msgid "Results Displays"
-msgstr ""
+msgstr "Wyświetlanie wyników"
 
 msgctxt "linmod|"
 msgid "Plots"
-msgstr ""
+msgstr "Wykresy"
 
 msgctxt "linmod|"
 msgid "Model plot"
-msgstr ""
+msgstr "Wykres modelu"
 
 msgctxt "linmod|"
 msgid "Univariate"
-msgstr ""
+msgstr "Jednowymiarowy"
 
 msgctxt "linmod|"
 msgid "Diagnostics"
-msgstr ""
+msgstr "Diagnostyka"
 
 msgctxt "linmod|"
 msgid "Added variable plot"
-msgstr ""
+msgstr "Dodano wykres zmiennych"
 
 msgctxt "linmod|"
 msgid "Estimation"
-msgstr ""
+msgstr "Oszacowanie"
 
 msgctxt "linmod|"
 msgid "Show model comparisons"
-msgstr ""
+msgstr "Pokaż porównanie modeli"
 
 msgctxt "linmod|"
 msgid "Report means"
-msgstr ""
+msgstr "Wyświetl średnie"
 
 msgctxt "linmod|"
 msgid "Show mean differences"
-msgstr ""
+msgstr "Pokaż różnice średnich"
 
 msgctxt "linmod|"
 msgid "Show slopes/intercepts"
-msgstr ""
+msgstr "Pokaż nachylenia/punkty przecięcia"
 
 msgctxt "linmod|"
 msgid "Show 95% intervals"
-msgstr ""
+msgstr "Pokaż przedziały 95%"
 
 msgctxt "linmod|"
 msgid "Show p-values"
-msgstr ""
+msgstr "Pokaż wartości p"
 
 msgctxt "linmod|"
 msgid "Plot Controls"
@@ -419,111 +427,111 @@ msgstr ""
 
 msgctxt "linmod|"
 msgid "Point transparency"
-msgstr ""
+msgstr "Przezroczystość punktu"
 
 msgctxt "linmod|"
 msgid "Jitter in X"
-msgstr ""
+msgstr "Losowy szum w X"
 
 msgctxt "linmod|"
 msgid "Jitter in Y"
-msgstr ""
+msgstr "Losowy szum w Y"
 
 msgctxt "linmod|"
 msgid "Aesthetics"
-msgstr ""
+msgstr "Wygląd"
 
 msgctxt "linmod|"
 msgid "JASP"
-msgstr ""
+msgstr "JASP"
 
 msgctxt "linmod|"
 msgid "Black and white"
-msgstr ""
+msgstr "Czerń i biel"
 
 msgctxt "linmod|"
 msgid "Minimal"
-msgstr ""
+msgstr "Minimalistyczny"
 
 msgctxt "linmod|"
 msgid "Classic"
-msgstr ""
+msgstr "Klasyczny"
 
 msgctxt "linmod|"
 msgid "Dark"
-msgstr ""
+msgstr "Ciemny"
 
 msgctxt "linmod|"
 msgid "GGplot theme"
-msgstr ""
+msgstr "Motyw GGplot"
 
 msgctxt "linmod|"
 msgid "Convert to grayscale"
-msgstr ""
+msgstr "Konwertuj na skalę szarości"
 
 msgctxt "linmod|"
 msgid "Ghost lines"
-msgstr ""
+msgstr "Linie siatki"
 
 msgctxt "mixedmod|"
 msgid "Dependent Variable"
-msgstr ""
+msgstr "Zmienna zależna"
 
 msgctxt "mixedmod|"
 msgid "Independent Variable(s)"
-msgstr ""
+msgstr "Zmienna(e) niezależna(e)"
 
 msgctxt "mixedmod|"
 msgid "Random"
-msgstr ""
+msgstr "Losowy"
 
 msgctxt "mixedmod|"
 msgid "Model Builder"
-msgstr ""
+msgstr "Kreator modelu"
 
 msgctxt "mixedmod|"
 msgid "Components"
-msgstr ""
+msgstr "Składowe"
 
 msgctxt "mixedmod|"
 msgid "Fixed terms"
-msgstr ""
+msgstr "Składniki stałe"
 
 msgctxt "mixedmod|"
 msgid "Add as a random effect"
-msgstr ""
+msgstr "Dodaj jako efekt losowy"
 
 msgctxt "mixedmod|"
 msgid "Results Displays"
-msgstr ""
+msgstr "Wyświetlanie wyników"
 
 msgctxt "mixedmod|"
 msgid "Plots"
-msgstr ""
+msgstr "Wykresy"
 
 msgctxt "mixedmod|"
 msgid "Model plot"
-msgstr ""
+msgstr "Wykres modelu"
 
 msgctxt "mixedmod|"
 msgid "Univariate plots"
-msgstr ""
+msgstr "Wykresy jednowymiarowe"
 
 msgctxt "mixedmod|"
 msgid "Diagnostics"
-msgstr ""
+msgstr "Diagnostyka"
 
 msgctxt "mixedmod|"
 msgid "Estimation"
-msgstr ""
+msgstr "Oszacowanie"
 
 msgctxt "mixedmod|"
 msgid "Report fixed effects"
-msgstr ""
+msgstr "Wyświetl efekty stałe"
 
 msgctxt "mixedmod|"
 msgid "Report random effects"
-msgstr ""
+msgstr "Wyświetl efekty losowe"
 
 msgctxt "mixedmod|"
 msgid "Plot Controls"
@@ -535,48 +543,48 @@ msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Point transparency"
-msgstr ""
+msgstr "Przejrzystość punktów"
 
 msgctxt "mixedmod|"
 msgid "Jitter in X"
-msgstr ""
+msgstr "Losowy szum w X"
 
 msgctxt "mixedmod|"
 msgid "Jitter in Y"
-msgstr ""
+msgstr "Losowy szum w Y"
 
 msgctxt "mixedmod|"
 msgid "Other parameters"
-msgstr ""
+msgstr "Inne parametry"
 
 msgctxt "mixedmod|"
 msgid "JASP"
-msgstr ""
+msgstr "JASP"
 
 msgctxt "mixedmod|"
 msgid "Black and white"
-msgstr ""
+msgstr "Czerń i biel"
 
 msgctxt "mixedmod|"
 msgid "Minimal"
-msgstr ""
+msgstr "Minimalistyczny"
 
 msgctxt "mixedmod|"
 msgid "Classic"
-msgstr ""
+msgstr "Klasyczny"
 
 msgctxt "mixedmod|"
 msgid "Dark"
-msgstr ""
+msgstr "Ciemny"
 
 msgctxt "mixedmod|"
 msgid "GGplot theme"
-msgstr ""
+msgstr "Motyw GGplot"
 
 msgctxt "mixedmod|"
 msgid "Number of clusters"
-msgstr ""
+msgstr "Liczba klastrów"
 
 msgctxt "glinmod|"
 msgid "Negative binomial"
-msgstr ""
+msgstr "Ujemny dwumianowy"
