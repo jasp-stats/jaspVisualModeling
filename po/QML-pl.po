@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-04-14 18:48+0000\n"
+"PO-Revision-Date: 2023-04-29 03:46+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jasp/"
 "jaspvisualmodeling-qml/pl/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.17-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 "X-Qt-Contexts: true\n"
 
 msgctxt "Description|"
@@ -23,7 +23,7 @@ msgstr "Graficzna analiza zależności między zmiennymi"
 
 msgctxt "Description|"
 msgid "Flexplot"
-msgstr ""
+msgstr "Moduł Flexplot"
 
 msgctxt "Description|"
 msgid "Linear Modeling"
@@ -47,7 +47,7 @@ msgstr "Zmienna(e) niezależna(e)"
 
 msgctxt "Flexplot|"
 msgid "Paneled Variable(s)"
-msgstr ""
+msgstr "Zmienne grupujące"
 
 msgctxt "Flexplot|"
 msgid "Options"
@@ -55,7 +55,7 @@ msgstr "Opcje"
 
 msgctxt "Flexplot|"
 msgid "<br><strong>Point controls</br></strong>"
-msgstr ""
+msgstr "<br><strong>Ustawienia punktów</br></strong>"
 
 msgctxt "Flexplot|"
 msgid "Point transparency"
@@ -75,7 +75,7 @@ msgstr "<strong>Statystyki wizualne</strong>"
 
 msgctxt "Flexplot|"
 msgid "Plot confidence bands"
-msgstr ""
+msgstr "Nanieś przedziały ufności"
 
 msgctxt "Flexplot|"
 msgid "Loess"
@@ -119,7 +119,7 @@ msgstr "Przedziały (predyktory kategorialne)"
 
 msgctxt "Flexplot|"
 msgid "<br><strong>Other Plot Controls</strong>"
-msgstr ""
+msgstr "Inne ustawienia"
 
 msgctxt "Flexplot|"
 msgid "JASP"
@@ -143,11 +143,11 @@ msgstr "Ciemny"
 
 msgctxt "Flexplot|"
 msgid "GGplot theme"
-msgstr "Motyw GGplot"
+msgstr "Motyw"
 
 msgctxt "Flexplot|"
 msgid "GGplot Default"
-msgstr "Domyślny GGplot"
+msgstr "Domyślny"
 
 msgctxt "Flexplot|"
 msgid "Nature"
@@ -199,11 +199,11 @@ msgstr "Etykieta legendy"
 
 msgctxt "Flexplot|"
 msgid "Column Panel Label"
-msgstr ""
+msgstr "Etykieta kolumny"
 
 msgctxt "Flexplot|"
 msgid "Row Panel Label"
-msgstr ""
+msgstr "Etykieta wiersza"
 
 msgctxt "glinmod|"
 msgid "Dependent Variable"
@@ -231,11 +231,11 @@ msgstr "Gamma"
 
 msgctxt "glinmod|"
 msgid "Distribution family"
-msgstr ""
+msgstr "Typ dystrybucji"
 
 msgctxt "glinmod|"
 msgid "Interaction terms"
-msgstr ""
+msgstr "Interakcje"
 
 msgctxt "glinmod|"
 msgid "Components"
@@ -259,7 +259,7 @@ msgstr "Wykres modelu"
 
 msgctxt "glinmod|"
 msgid "Univariates"
-msgstr "Jednowymiarowe"
+msgstr "Jednowymiarowy"
 
 msgctxt "glinmod|"
 msgid "Estimation"
@@ -271,11 +271,11 @@ msgstr "Pokaż oszacowania parametrów"
 
 msgctxt "glinmod|"
 msgid "Plot Controls"
-msgstr ""
+msgstr "Ustawienia wykresów"
 
 msgctxt "glinmod|"
 msgid "Point controls"
-msgstr ""
+msgstr "Ustawienia punktów"
 
 msgctxt "glinmod|"
 msgid "Point transparency"
@@ -315,7 +315,7 @@ msgstr "Ciemny"
 
 msgctxt "glinmod|"
 msgid "GGplot theme"
-msgstr "Motyw GGplot"
+msgstr "Motyw"
 
 msgctxt "glinmod|"
 msgid "Ghost lines"
@@ -419,11 +419,11 @@ msgstr "Pokaż wartości p"
 
 msgctxt "linmod|"
 msgid "Plot Controls"
-msgstr ""
+msgstr "Ustawienia wykresów"
 
 msgctxt "linmod|"
 msgid "Point controls"
-msgstr ""
+msgstr "Ustawienia punktów"
 
 msgctxt "linmod|"
 msgid "Point transparency"
@@ -463,7 +463,7 @@ msgstr "Ciemny"
 
 msgctxt "linmod|"
 msgid "GGplot theme"
-msgstr "Motyw GGplot"
+msgstr "Motyw"
 
 msgctxt "linmod|"
 msgid "Convert to grayscale"
@@ -535,11 +535,11 @@ msgstr "Wyświetl efekty losowe"
 
 msgctxt "mixedmod|"
 msgid "Plot Controls"
-msgstr ""
+msgstr "Ustawienia wykresów"
 
 msgctxt "mixedmod|"
 msgid "Point controls"
-msgstr ""
+msgstr "Ustawienia punktów"
 
 msgctxt "mixedmod|"
 msgid "Point transparency"
@@ -579,7 +579,7 @@ msgstr "Ciemny"
 
 msgctxt "mixedmod|"
 msgid "GGplot theme"
-msgstr "Motyw GGplot"
+msgstr "Motyw"
 
 msgctxt "mixedmod|"
 msgid "Number of clusters"
