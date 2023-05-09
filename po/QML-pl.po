@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-04-29 03:46+0000\n"
+"PO-Revision-Date: 2023-05-10 16:50+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jasp/"
 "jaspvisualmodeling-qml/pl/>\n"
@@ -99,7 +99,7 @@ msgstr "Brak"
 
 msgctxt "Flexplot|"
 msgid "Fitted line (scatterplots)"
-msgstr "Linia dopasowana (wykresy rozrzutu)"
+msgstr "Linia dopasowania"
 
 msgctxt "Flexplot|"
 msgid "Quartiles"
@@ -115,7 +115,7 @@ msgstr "Odchylenie standardowe"
 
 msgctxt "Flexplot|"
 msgid "Intervals (categorical predictors)"
-msgstr "Przedziały (predyktory kategorialne)"
+msgstr "Przedziały"
 
 msgctxt "Flexplot|"
 msgid "<br><strong>Other Plot Controls</strong>"
@@ -363,7 +363,7 @@ msgstr "Sześcienna"
 
 msgctxt "linmod|"
 msgid "Fitted line (scatterplots)"
-msgstr "Linia dopasowana (wykresy rozrzutu)"
+msgstr "Linia dopasowania"
 
 msgctxt "linmod|"
 msgid "Results Displays"
