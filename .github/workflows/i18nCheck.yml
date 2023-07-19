@@ -1,10 +1,12 @@
-on: 
-  push:
-    paths: ['**.R', '**.qml', '**.po', '**.yml']
- 
-  pull_request:
-    paths: ['**.R', '**.qml', '**.po', '**.yml']
-  
+on:
+  # There is no gettext used in the R files: there are just a pass-through to the flexplot package
+  # So no need to check is needed
+  # push:
+  #   paths: ['**.R', '**.qml', '**.po', '**.yml']
+  # 
+  # pull_request:
+  #   paths: ['**.R', '**.qml', '**.po', '**.yml']
+  #
   workflow_dispatch:
 
 name: i18n-check
