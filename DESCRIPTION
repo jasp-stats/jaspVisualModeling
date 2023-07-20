@@ -1,7 +1,7 @@
 Package: jaspVisualModeling
 Type: Package
 Title: Visual Modeling Module for JASP
-Version: 0.17.2
+Version: 0.17.3
 Date: 2022-10-05
 Author: Dustin Fife
 Website: github.com/dustinfife/flexplot
