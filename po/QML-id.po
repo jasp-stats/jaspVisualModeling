@@ -1,9 +1,15 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2023-12-27 15:09+0000\n"
+"Last-Translator: Rania Rahida <raniarahida@gmail.com>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/jasp/"
+"jaspvisualmodeling-qml/id/>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.4-dev\n"
 "X-Language: id\n"
 "X-Qt-Contexts: true\n"
 
@@ -89,7 +95,7 @@ msgstr ""
 
 msgctxt "Flexplot|"
 msgid "Color Palette"
-msgstr ""
+msgstr "Palet Warna"
 
 msgctxt "Flexplot|"
 msgid "Convert to grayscale"
@@ -127,7 +133,7 @@ msgstr ""
 
 msgctxt "glinmod|"
 msgid "Components"
-msgstr ""
+msgstr "Komponen"
 
 msgctxt "glinmod|"
 msgid "Model terms"
@@ -139,7 +145,7 @@ msgstr ""
 
 msgctxt "glinmod|"
 msgid "Plots"
-msgstr ""
+msgstr "Plot"
 
 msgctxt "glinmod|"
 msgid "Model plot"
@@ -232,7 +238,7 @@ msgstr ""
 
 msgctxt "linmod|"
 msgid "Plots"
-msgstr ""
+msgstr "Plot"
 
 msgctxt "linmod|"
 msgid "Model plot"
@@ -244,7 +250,7 @@ msgstr ""
 
 msgctxt "linmod|"
 msgid "Diagnostics"
-msgstr ""
+msgstr "Diagnostik"
 
 msgctxt "linmod|"
 msgid "Added variable plot"
@@ -329,7 +335,7 @@ msgstr "Variabel Independen"
 
 msgctxt "mixedmod|"
 msgid "Random"
-msgstr ""
+msgstr "Acak"
 
 msgctxt "mixedmod|"
 msgid "Model Builder"
@@ -337,7 +343,7 @@ msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Components"
-msgstr ""
+msgstr "Komponen"
 
 msgctxt "mixedmod|"
 msgid "Fixed terms"
@@ -353,7 +359,7 @@ msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Plots"
-msgstr ""
+msgstr "Plot"
 
 msgctxt "mixedmod|"
 msgid "Model plot"
@@ -369,7 +375,7 @@ msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Estimation"
-msgstr ""
+msgstr "Estimasi"
 
 msgctxt "mixedmod|"
 msgid "Report fixed effects"
@@ -420,23 +426,23 @@ msgstr ""
 
 msgctxt "Flexplot|"
 msgid "Regression"
-msgstr ""
+msgstr "Regresi"
 
 msgctxt "Flexplot|"
 msgid "Quadratic"
-msgstr ""
+msgstr "Kuadratik"
 
 msgctxt "Flexplot|"
 msgid "Cubic"
-msgstr ""
+msgstr "Kubik"
 
 msgctxt "Flexplot|"
 msgid "None"
-msgstr ""
+msgstr "Tidak ada"
 
 msgctxt "Flexplot|"
 msgid "Quartiles"
-msgstr ""
+msgstr "Kuartil"
 
 msgctxt "Flexplot|"
 msgid "Standard errors"
@@ -448,19 +454,19 @@ msgstr ""
 
 msgctxt "Flexplot|"
 msgid "JASP"
-msgstr ""
+msgstr "JASP"
 
 msgctxt "Flexplot|"
 msgid "Black and white"
-msgstr ""
+msgstr "Hitam dan putih"
 
 msgctxt "Flexplot|"
 msgid "Minimal"
-msgstr ""
+msgstr "Minimum"
 
 msgctxt "Flexplot|"
 msgid "Classic"
-msgstr ""
+msgstr "Klasik"
 
 msgctxt "Flexplot|"
 msgid "Dark"
@@ -508,11 +514,11 @@ msgstr ""
 
 msgctxt "glinmod|"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgctxt "glinmod|"
 msgid "Logistic"
-msgstr ""
+msgstr "Logistik"
 
 msgctxt "glinmod|"
 msgid "Poisson"
@@ -524,75 +530,75 @@ msgstr ""
 
 msgctxt "glinmod|"
 msgid "JASP"
-msgstr ""
+msgstr "JASP"
 
 msgctxt "glinmod|"
 msgid "Black and white"
-msgstr ""
+msgstr "Hitam dan putih"
 
 msgctxt "glinmod|"
 msgid "Minimal"
-msgstr ""
+msgstr "Minimum"
 
 msgctxt "glinmod|"
 msgid "Classic"
-msgstr ""
+msgstr "Klasik"
 
 msgctxt "glinmod|"
 msgid "Dark"
-msgstr ""
+msgstr "Gelap"
 
 msgctxt "linmod|"
 msgid "Regression"
-msgstr ""
+msgstr "Regresi"
 
 msgctxt "linmod|"
 msgid "Quadratic"
-msgstr ""
+msgstr "Kuadratik"
 
 msgctxt "linmod|"
 msgid "Cubic"
-msgstr ""
+msgstr "Kubik"
 
 msgctxt "linmod|"
 msgid "JASP"
-msgstr ""
+msgstr "JASP"
 
 msgctxt "linmod|"
 msgid "Black and white"
-msgstr ""
+msgstr "Hitam dan putih"
 
 msgctxt "linmod|"
 msgid "Minimal"
-msgstr ""
+msgstr "Minimum"
 
 msgctxt "linmod|"
 msgid "Classic"
-msgstr ""
+msgstr "Klasik"
 
 msgctxt "linmod|"
 msgid "Dark"
-msgstr ""
+msgstr "Gelap"
 
 msgctxt "mixedmod|"
 msgid "JASP"
-msgstr ""
+msgstr "JASP"
 
 msgctxt "mixedmod|"
 msgid "Black and white"
-msgstr ""
+msgstr "Hitam dan putih"
 
 msgctxt "mixedmod|"
 msgid "Minimal"
-msgstr ""
+msgstr "Minimum"
 
 msgctxt "mixedmod|"
 msgid "Classic"
-msgstr ""
+msgstr "Klasik"
 
 msgctxt "mixedmod|"
 msgid "Dark"
-msgstr ""
+msgstr "Gelap"
 
 msgctxt "glinmod|"
 msgid "Negative binomial"
