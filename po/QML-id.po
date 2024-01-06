@@ -1,15 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-27 15:09+0000\n"
-"Last-Translator: Rania Rahida <raniarahida@gmail.com>\n"
-"Language-Team: Indonesian <https://hosted.weblate.org/projects/jasp/"
-"jaspvisualmodeling-qml/id/>\n"
-"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4-dev\n"
 "X-Language: id\n"
 "X-Qt-Contexts: true\n"
 
@@ -155,9 +149,10 @@ msgctxt "glinmod|"
 msgid "Univariates"
 msgstr ""
 
+#, fuzzy
 msgctxt "glinmod|"
 msgid "Estimation"
-msgstr ""
+msgstr "Estimasi"
 
 msgctxt "glinmod|"
 msgid "Show parameter Estimates"
@@ -212,9 +207,10 @@ msgctxt "linmod|"
 msgid "Model Terms"
 msgstr ""
 
+#, fuzzy
 msgctxt "linmod|"
 msgid "Components"
-msgstr ""
+msgstr "Komponen"
 
 msgctxt "linmod|"
 msgid "Model terms"
@@ -256,9 +252,10 @@ msgctxt "linmod|"
 msgid "Added variable plot"
 msgstr ""
 
+#, fuzzy
 msgctxt "linmod|"
 msgid "Estimation"
-msgstr ""
+msgstr "Estimasi"
 
 msgctxt "linmod|"
 msgid "Show model comparisons"
@@ -369,9 +366,10 @@ msgctxt "mixedmod|"
 msgid "Univariate plots"
 msgstr ""
 
+#, fuzzy
 msgctxt "mixedmod|"
 msgid "Diagnostics"
-msgstr ""
+msgstr "Diagnostik"
 
 msgctxt "mixedmod|"
 msgid "Estimation"
@@ -468,9 +466,10 @@ msgctxt "Flexplot|"
 msgid "Classic"
 msgstr "Klasik"
 
+#, fuzzy
 msgctxt "Flexplot|"
 msgid "Dark"
-msgstr ""
+msgstr "Gelap"
 
 msgctxt "Flexplot|"
 msgid "GGplot Default"
