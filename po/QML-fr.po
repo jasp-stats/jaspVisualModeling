@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-04-09 13:34+0000\n"
+"PO-Revision-Date: 2024-04-10 11:01+0000\n"
 "Last-Translator: robachowyk <kaya.robach@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jasp/"
 "jaspvisualmodeling-qml/fr/>\n"
@@ -95,11 +95,11 @@ msgstr ""
 
 msgctxt "Flexplot|"
 msgid "Color Palette"
-msgstr ""
+msgstr "Palette de Couleurs"
 
 msgctxt "Flexplot|"
 msgid "Convert to grayscale"
-msgstr ""
+msgstr "Convertir en niveaux de gris"
 
 msgctxt "Flexplot|"
 msgid "Ghost lines"
