@@ -8,8 +8,9 @@ Website: github.com/dustinfife/flexplot
 Maintainer: Dustin Fife <fife.dustin@gmail.com>
 Description: Graphically explore the dependencies between variables
 License: GPL (>= 2)
-Imports: flexplot, jaspBase, jaspGraphs
+Imports: flexplot, jaspBase, jaspGraphs, jaspDescriptives
 Remotes: 
 	dustinfife/flexplot,
 	jasp-stats/jaspGraphs,
-	jasp-stats/jaspBase
+        jasp-stats/jaspBase,
+        jasp-stats/jaspDescriptives

@@ -18,6 +18,7 @@ Description
 		title: 	qsTr("Flexplot")
 		qml:   	"Flexplot.qml"
 		func:	"flexplot"
+		hasWrapper: true
 	}
 
 	Analysis
