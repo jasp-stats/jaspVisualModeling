@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-04-06 03:46+0000\n"
+"PO-Revision-Date: 2024-04-10 11:01+0000\n"
 "Last-Translator: robachowyk <kaya.robach@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jasp/"
 "jaspvisualmodeling-qml/fr/>\n"
@@ -63,15 +63,15 @@ msgstr ""
 
 msgctxt "Flexplot|"
 msgid "Jitter in X"
-msgstr ""
+msgstr "Jitter en X"
 
 msgctxt "Flexplot|"
 msgid "Jitter in Y"
-msgstr ""
+msgstr "Jitter en Y"
 
 msgctxt "Flexplot|"
 msgid "<strong>Visual Statistics</strong>"
-msgstr ""
+msgstr "<strong>Statistiques Visuelles</strong>"
 
 msgctxt "Flexplot|"
 msgid "Plot confidence bands"
@@ -87,7 +87,7 @@ msgstr ""
 
 msgctxt "Flexplot|"
 msgid "<br><strong>Other Plot Controls</strong>"
-msgstr ""
+msgstr "<br><strong>Autres Tracés de Contrôle</strong>"
 
 msgctxt "Flexplot|"
 msgid "GGplot theme"
@@ -95,11 +95,11 @@ msgstr ""
 
 msgctxt "Flexplot|"
 msgid "Color Palette"
-msgstr ""
+msgstr "Palette de Couleurs"
 
 msgctxt "Flexplot|"
 msgid "Convert to grayscale"
-msgstr ""
+msgstr "Convertir en niveaux de gris"
 
 msgctxt "Flexplot|"
 msgid "Ghost lines"
