@@ -8,7 +8,7 @@ Form
 	VariablesForm
 	{
 		AvailableVariablesList	{ name: "allVariables" }
-		AssignedVariablesList	{ name: "dependent"		; title: qsTr("Dependent Variable")			; singleVariable: true	}
+		AssignedVariablesList	{ name: "dependent"		; title: qsTr("Dependent Variable")			; singleVariable: true; allowedColumns: ["scale"]; minNumericLevels: 2	}
 		AssignedVariablesList	{ name: "variables"		; title: qsTr("Independent Variable(s)")	; id: varlist			}
 		AssignedVariablesList	{ name: "rvariables"	; title: qsTr("Random")						; singleVariable: true	}
 	}
