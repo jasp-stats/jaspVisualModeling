@@ -1,38 +1,45 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-03-23 18:29+0000\n"
+"Last-Translator: Marko Bojović <bojovicmarko@outlook.com>\n"
+"Language-Team: Serbian <https://hosted.weblate.org/projects/jasp/"
+"jaspvisualmodeling-qml/sr/>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11-dev\n"
 "X-Qt-Contexts: true\n"
 
 msgctxt "Description|"
 msgid "Visual Modeling"
-msgstr ""
+msgstr "Визуелно моделирање"
 
 msgctxt "Description|"
 msgid "Flexplot"
-msgstr ""
+msgstr "Flexplot"
 
 msgctxt "Description|"
 msgid "Linear Modeling"
-msgstr ""
+msgstr "Линеарно моделирање"
 
 msgctxt "Description|"
 msgid "Mixed Modeling"
-msgstr ""
+msgstr "Мешовито моделирање"
 
 msgctxt "Description|"
 msgid "Generalized Linear Modeling"
-msgstr ""
+msgstr "Генерализовано линеарно моделирање"
 
 msgctxt "glinmod|"
 msgid "Dependent Variable"
-msgstr ""
+msgstr "Зависна променљива"
 
 msgctxt "glinmod|"
 msgid "Independent Variable(s)"
-msgstr ""
+msgstr "Независна променљива(-е)"
 
 msgctxt "glinmod|"
 msgid "Distribution family"
@@ -44,7 +51,7 @@ msgstr ""
 
 msgctxt "glinmod|"
 msgid "Components"
-msgstr ""
+msgstr "Компоненте"
 
 msgctxt "glinmod|"
 msgid "Model terms"
@@ -108,11 +115,11 @@ msgstr ""
 
 msgctxt "linmod|"
 msgid "Dependent Variable"
-msgstr ""
+msgstr "Зависна променљива"
 
 msgctxt "linmod|"
 msgid "Independent Variable(s)"
-msgstr ""
+msgstr "Независна променљива(-е)"
 
 msgctxt "linmod|"
 msgid "Model Terms"
@@ -120,7 +127,7 @@ msgstr ""
 
 msgctxt "linmod|"
 msgid "Components"
-msgstr ""
+msgstr "Компоненте"
 
 msgctxt "linmod|"
 msgid "Model terms"
@@ -224,15 +231,15 @@ msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Dependent Variable"
-msgstr ""
+msgstr "Зависна променљива"
 
 msgctxt "mixedmod|"
 msgid "Independent Variable(s)"
-msgstr ""
+msgstr "Независна променљива(-е)"
 
 msgctxt "mixedmod|"
 msgid "Random"
-msgstr ""
+msgstr "Насумично"
 
 msgctxt "mixedmod|"
 msgid "Model Builder"
@@ -240,11 +247,11 @@ msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Components"
-msgstr ""
+msgstr "Компоненте"
 
 msgctxt "mixedmod|"
 msgid "Fixed terms"
-msgstr ""
+msgstr "Фиксни услови"
 
 msgctxt "mixedmod|"
 msgid "Results Displays"
