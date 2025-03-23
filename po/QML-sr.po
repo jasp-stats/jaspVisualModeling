@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-23 20:15+0000\n"
+"PO-Revision-Date: 2025-03-24 01:54+0000\n"
 "Last-Translator: Marko Bojović <bojovicmarko@outlook.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/jasp/"
 "jaspvisualmodeling-qml/sr/>\n"
@@ -71,7 +71,7 @@ msgstr "Модел парцеле"
 
 msgctxt "glinmod|"
 msgid "Univariates"
-msgstr ""
+msgstr "Униваријанте"
 
 msgctxt "glinmod|"
 msgid "Estimation"
@@ -79,7 +79,7 @@ msgstr "Процена"
 
 msgctxt "glinmod|"
 msgid "Show parameter Estimates"
-msgstr ""
+msgstr "Прикажи параметар Процене"
 
 msgctxt "glinmod|"
 msgid "Plot Controls"
@@ -267,7 +267,7 @@ msgstr "Модел парцеле"
 
 msgctxt "mixedmod|"
 msgid "Univariate plots"
-msgstr ""
+msgstr "Униваријанти графикон"
 
 msgctxt "mixedmod|"
 msgid "Diagnostics"
@@ -307,7 +307,7 @@ msgstr "Jitter у Y"
 
 msgctxt "mixedmod|"
 msgid "Other parameters"
-msgstr ""
+msgstr "Остали параметри"
 
 msgctxt "mixedmod|"
 msgid "GGplot theme"
@@ -315,35 +315,35 @@ msgstr "GGplot тема"
 
 msgctxt "mixedmod|"
 msgid "Number of clusters"
-msgstr ""
+msgstr "Број кластера"
 
 msgctxt "Description|"
 msgid "Graphically explore the dependencies between variables"
-msgstr ""
+msgstr "Графички истражите зависности између варијабли"
 
 msgctxt "linmod|"
 msgid "Add as a polynomial"
-msgstr ""
+msgstr "Додајте као полином"
 
 msgctxt "mixedmod|"
 msgid "Add as a random effect"
-msgstr ""
+msgstr "Додајте као случајни ефекат"
 
 msgctxt "glinmod|"
 msgid "Normal"
-msgstr ""
+msgstr "Нормалан"
 
 msgctxt "glinmod|"
 msgid "Logistic"
-msgstr ""
+msgstr "Логистика"
 
 msgctxt "glinmod|"
 msgid "Poisson"
-msgstr ""
+msgstr "Појсонова"
 
 msgctxt "glinmod|"
 msgid "Gamma"
-msgstr ""
+msgstr "Гама"
 
 msgctxt "glinmod|"
 msgid "JASP"
@@ -367,15 +367,15 @@ msgstr "Мрачно"
 
 msgctxt "linmod|"
 msgid "Regression"
-msgstr ""
+msgstr "Регресија"
 
 msgctxt "linmod|"
 msgid "Quadratic"
-msgstr ""
+msgstr "Квадратно"
 
 msgctxt "linmod|"
 msgid "Cubic"
-msgstr ""
+msgstr "Кубична"
 
 msgctxt "linmod|"
 msgid "JASP"
