@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-24 01:54+0000\n"
+"PO-Revision-Date: 2025-03-28 12:20+0000\n"
 "Last-Translator: Marko Bojović <bojovicmarko@outlook.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/jasp/"
 "jaspvisualmodeling-qml/sr/>\n"
@@ -63,7 +63,7 @@ msgstr "Приказује се резултати"
 
 msgctxt "glinmod|"
 msgid "Plots"
-msgstr "Графикон „Plots“"
+msgstr "Графикони"
 
 msgctxt "glinmod|"
 msgid "Model plot"
@@ -147,7 +147,7 @@ msgstr "Приказује се резултати"
 
 msgctxt "linmod|"
 msgid "Plots"
-msgstr "Графикон „Plots“"
+msgstr "Графикони"
 
 msgctxt "linmod|"
 msgid "Model plot"
@@ -259,7 +259,7 @@ msgstr "Приказује се резултати"
 
 msgctxt "mixedmod|"
 msgid "Plots"
-msgstr "Графикон „Plots“"
+msgstr "Графикони"
 
 msgctxt "mixedmod|"
 msgid "Model plot"
