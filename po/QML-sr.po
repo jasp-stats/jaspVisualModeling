@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-28 12:20+0000\n"
+"PO-Revision-Date: 2025-04-13 00:02+0000\n"
 "Last-Translator: Marko Bojović <bojovicmarko@outlook.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/jasp/"
 "jaspvisualmodeling-qml/sr/>\n"
@@ -95,7 +95,7 @@ msgstr "Транспарентност тачке"
 
 msgctxt "glinmod|"
 msgid "Jitter in X"
-msgstr "Jitter in X"
+msgstr "Конфузија у X"
 
 msgctxt "glinmod|"
 msgid "Jitter in Y"
