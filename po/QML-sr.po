@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-20 23:02+0000\n"
+"PO-Revision-Date: 2025-08-24 10:01+0000\n"
 "Last-Translator: Marko Bojović <bojovicmarko@outlook.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/jasp/"
 "jaspvisualmodeling-qml/sr/>\n"
@@ -159,7 +159,7 @@ msgstr "Униваријантни"
 
 msgctxt "linmod|"
 msgid "Diagnostics"
-msgstr "Дијагностика"
+msgstr "Дијагностике"
 
 msgctxt "linmod|"
 msgid "Added variable plot"
@@ -271,7 +271,7 @@ msgstr "Униваријанти графикон"
 
 msgctxt "mixedmod|"
 msgid "Diagnostics"
-msgstr "Дијагностика"
+msgstr "Дијагностике"
 
 msgctxt "mixedmod|"
 msgid "Estimation"
