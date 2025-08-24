@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-24 10:01+0000\n"
+"PO-Revision-Date: 2025-08-25 14:02+0000\n"
 "Last-Translator: Marko Bojović <bojovicmarko@outlook.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/jasp/"
 "jaspvisualmodeling-qml/sr/>\n"
@@ -19,7 +19,7 @@ msgstr "Визуелно моделирање"
 
 msgctxt "Description|"
 msgid "Flexplot"
-msgstr "Flexplot"
+msgstr "Flexplot (флексибилни графикон)"
 
 msgctxt "Description|"
 msgid "Linear Modeling"
@@ -115,7 +115,7 @@ msgstr "Линије духова"
 
 msgctxt "linmod|"
 msgid "Dependent Variable"
-msgstr "Зависна променљива"
+msgstr "Зависна варијабла"
 
 msgctxt "linmod|"
 msgid "Independent Variable(s)"
@@ -231,7 +231,7 @@ msgstr "Линије духова"
 
 msgctxt "mixedmod|"
 msgid "Dependent Variable"
-msgstr "Зависна променљива"
+msgstr "Зависна варијабла"
 
 msgctxt "mixedmod|"
 msgid "Independent Variable(s)"
