@@ -4,15 +4,10 @@ import JASP.Module
 Description
 {
 	title :         qsTr("Visual Modeling")
-	name :          "jaspVisualModeling"
 	description:    qsTr("Graphically explore the dependencies between variables")
-	version			: "0.95.0"
-	author:         "Dustin Fife"
 	icon:           "FlexplotLogo.svg"
-	maintainer:     "Dustin Fife <fife.dustin@gmail.com>"
-	website:        "github.com/dustinfife/flexplot"
-	license:        "GPL (>= 2)"
-
+	hasWrappers: 	false
+	
 	Analysis
 	{
 		title: 	qsTr("Flexplot")
