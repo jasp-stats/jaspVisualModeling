@@ -7,7 +7,8 @@ Description
 	description:    qsTr("Graphically explore the dependencies between variables")
 	icon:           "FlexplotLogo.svg"
 	hasWrappers: 	false
-	
+	preloadData:	false
+
 	Analysis
 	{
 		title: 	qsTr("Flexplot")
