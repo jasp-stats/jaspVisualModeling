@@ -1,25 +1,18 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-02 08:09+0000\n"
-"Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
-"Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
-"projects/jasp/jaspvisualmodeling-qml/zh_Hant/>\n"
-"Language: zh_Hant\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17-dev\n"
-"X-Language: zh_Hant\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Qt-Contexts: true\n"
 
 msgctxt "Description|"
 msgid "Visual Modeling"
-msgstr "視覺化建模"
-
-msgctxt "Description|"
-msgid "Graphically explore the dependencies between variables"
-msgstr "以圖形化方式探索變項間之相依關係"
+msgstr ""
 
 msgctxt "Description|"
 msgid "Flexplot"
@@ -27,15 +20,15 @@ msgstr ""
 
 msgctxt "Description|"
 msgid "Linear Modeling"
-msgstr "線性模型"
+msgstr ""
 
 msgctxt "Description|"
 msgid "Mixed Modeling"
-msgstr "混合模型"
+msgstr ""
 
 msgctxt "Description|"
 msgid "Generalized Linear Modeling"
-msgstr "廣義線性模型"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Dependent Variable"
@@ -43,22 +36,6 @@ msgstr ""
 
 msgctxt "glinmod|"
 msgid "Independent Variable(s)"
-msgstr ""
-
-msgctxt "glinmod|"
-msgid "Normal"
-msgstr ""
-
-msgctxt "glinmod|"
-msgid "Logistic"
-msgstr ""
-
-msgctxt "glinmod|"
-msgid "Poisson"
-msgstr ""
-
-msgctxt "glinmod|"
-msgid "Gamma"
 msgstr ""
 
 msgctxt "glinmod|"
@@ -126,26 +103,6 @@ msgid "Aesthetics"
 msgstr ""
 
 msgctxt "glinmod|"
-msgid "JASP"
-msgstr ""
-
-msgctxt "glinmod|"
-msgid "Black and white"
-msgstr ""
-
-msgctxt "glinmod|"
-msgid "Minimal"
-msgstr ""
-
-msgctxt "glinmod|"
-msgid "Classic"
-msgstr ""
-
-msgctxt "glinmod|"
-msgid "Dark"
-msgstr ""
-
-msgctxt "glinmod|"
 msgid "GGplot theme"
 msgstr ""
 
@@ -174,23 +131,7 @@ msgid "Model terms"
 msgstr ""
 
 msgctxt "linmod|"
-msgid "Add as a polynomial"
-msgstr ""
-
-msgctxt "linmod|"
 msgid "Visual Fitting"
-msgstr ""
-
-msgctxt "linmod|"
-msgid "Regression"
-msgstr ""
-
-msgctxt "linmod|"
-msgid "Quadratic"
-msgstr ""
-
-msgctxt "linmod|"
-msgid "Cubic"
 msgstr ""
 
 msgctxt "linmod|"
@@ -274,26 +215,6 @@ msgid "Aesthetics"
 msgstr ""
 
 msgctxt "linmod|"
-msgid "JASP"
-msgstr ""
-
-msgctxt "linmod|"
-msgid "Black and white"
-msgstr ""
-
-msgctxt "linmod|"
-msgid "Minimal"
-msgstr ""
-
-msgctxt "linmod|"
-msgid "Classic"
-msgstr ""
-
-msgctxt "linmod|"
-msgid "Dark"
-msgstr ""
-
-msgctxt "linmod|"
 msgid "GGplot theme"
 msgstr ""
 
@@ -327,10 +248,6 @@ msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Fixed terms"
-msgstr ""
-
-msgctxt "mixedmod|"
-msgid "Add as a random effect"
 msgstr ""
 
 msgctxt "mixedmod|"
@@ -390,6 +307,94 @@ msgid "Other parameters"
 msgstr ""
 
 msgctxt "mixedmod|"
+msgid "GGplot theme"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Number of clusters"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Graphically explore the dependencies between variables"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Add as a polynomial"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Add as a random effect"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Normal"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Logistic"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Poisson"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Gamma"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "JASP"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Black and white"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Minimal"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Classic"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Dark"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Regression"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Quadratic"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Cubic"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "JASP"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Black and white"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Minimal"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Classic"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Dark"
+msgstr ""
+
+msgctxt "mixedmod|"
 msgid "JASP"
 msgstr ""
 
@@ -407,14 +412,6 @@ msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Dark"
-msgstr ""
-
-msgctxt "mixedmod|"
-msgid "GGplot theme"
-msgstr ""
-
-msgctxt "mixedmod|"
-msgid "Number of clusters"
 msgstr ""
 
 msgctxt "glinmod|"
