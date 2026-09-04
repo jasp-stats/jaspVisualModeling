@@ -7,10 +7,16 @@ msgstr ""
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: ru\n"
 "X-Qt-Contexts: true\n"
+"PO-Revision-Date: 2026-09-04 14:29+0000\n"
+"Last-Translator: Alexander Matveev <avmcsmu@gmail.com>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/jasp/"
+"jaspvisualmodeling-qml/ru/>\n"
+"Language: ru\n"
+"X-Generator: Weblate 2026.9\n"
 
 msgctxt "Description|"
 msgid "Visual Modeling"
-msgstr ""
+msgstr "Визуальное моделирование"
 
 msgctxt "Description|"
 msgid "Flexplot"
@@ -58,7 +64,7 @@ msgstr ""
 
 msgctxt "glinmod|"
 msgid "Plots"
-msgstr ""
+msgstr "Графики"
 
 msgctxt "glinmod|"
 msgid "Model plot"
@@ -142,7 +148,7 @@ msgstr ""
 
 msgctxt "linmod|"
 msgid "Plots"
-msgstr ""
+msgstr "Графики"
 
 msgctxt "linmod|"
 msgid "Model plot"
@@ -154,7 +160,7 @@ msgstr ""
 
 msgctxt "linmod|"
 msgid "Diagnostics"
-msgstr ""
+msgstr "Диагностика"
 
 msgctxt "linmod|"
 msgid "Added variable plot"
@@ -234,7 +240,7 @@ msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Random"
-msgstr ""
+msgstr "Случайный"
 
 msgctxt "mixedmod|"
 msgid "Model Builder"
@@ -254,7 +260,7 @@ msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Plots"
-msgstr ""
+msgstr "Графики"
 
 msgctxt "mixedmod|"
 msgid "Model plot"
@@ -266,7 +272,7 @@ msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Diagnostics"
-msgstr ""
+msgstr "Диагностика"
 
 msgctxt "mixedmod|"
 msgid "Estimation"

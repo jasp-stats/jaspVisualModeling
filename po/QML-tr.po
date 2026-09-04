@@ -6,6 +6,12 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: tr\n"
 "X-Qt-Contexts: true\n"
+"PO-Revision-Date: 2026-09-04 14:28+0000\n"
+"Last-Translator: hakan dokumuş <dokumushakan@gmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/jasp/"
+"jaspvisualmodeling-qml/tr/>\n"
+"Language: tr\n"
+"X-Generator: Weblate 2026.9\n"
 
 msgctxt "Description|"
 msgid "Visual Modeling"
@@ -13,7 +19,7 @@ msgstr "Görsel Modelleme"
 
 msgctxt "Description|"
 msgid "Flexplot"
-msgstr "esnek grafik"
+msgstr "Flexplot (Esnek Grafikler)"
 
 msgctxt "Description|"
 msgid "Linear Modeling"
@@ -99,7 +105,6 @@ msgctxt "glinmod|"
 msgid "Aesthetics"
 msgstr ""
 
-#, fuzzy
 msgctxt "glinmod|"
 msgid "GGplot theme"
 msgstr "GGplot teması"
@@ -108,15 +113,13 @@ msgctxt "glinmod|"
 msgid "Ghost lines"
 msgstr ""
 
-#, fuzzy
 msgctxt "linmod|"
 msgid "Dependent Variable"
-msgstr "Bağımlı değişken"
+msgstr "Bağımlı Değişken"
 
-#, fuzzy
 msgctxt "linmod|"
 msgid "Independent Variable(s)"
-msgstr "Bağımsız değişkenler"
+msgstr "Bağımsız Değişken(ler)"
 
 msgctxt "linmod|"
 msgid "Model Terms"
