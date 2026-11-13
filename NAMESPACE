@@ -1,5 +1,8 @@
 export(flexplot)
 export(flexplotInternal)
 export(linmod)
+export(linmodInternal)
 export(mixedmod)
+export(mixedmodInternal)
 export(glinmod)
+export(glinmodInternal)
