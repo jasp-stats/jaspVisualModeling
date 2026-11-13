@@ -1,3 +1,3 @@
-glinmod <- function(jaspResults, dataset, options) {
+glinmodInternal <- function(jaspResults, dataset, options) {
   return(flexplot:::glinmod_jasp(jaspResults, dataset, options))
 }
