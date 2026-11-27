@@ -6,7 +6,7 @@ Description
 	title :         qsTr("Visual Modeling")
 	description:    qsTr("Graphically explore the dependencies between variables")
 	icon:           "FlexplotLogo.svg"
-	hasWrappers: 	false
+	hasWrappers: 	true
 	preloadData:	false
 
 	Analysis
@@ -14,7 +14,6 @@ Description
 		title: 	qsTr("Flexplot")
 		qml:   	"Flexplot.qml"
 		func:	"flexplot"
-		hasWrapper: true
 	}
 
 	Analysis
